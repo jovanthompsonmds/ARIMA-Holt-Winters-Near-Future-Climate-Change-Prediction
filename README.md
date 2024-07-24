@@ -1,4 +1,4 @@
-# Near Future Climate Change Prediction
+# ARIMA Holt-Winters Near Future Climate Change Prediction
 
 ## Overview
 This project focuses on predicting daily average temperatures using ARIMA and Holt-Winters models, leveraging historical data from 1980 to 2010. The predictions span from 2010 to 2020, extending to 2030, providing valuable insights into near-future climate trends and potential anomalies.
@@ -10,7 +10,7 @@ This project focuses on predicting daily average temperatures using ARIMA and Ho
 - **Ethical Insights**: Discuss implications for climate policy and public health through an ethical lens.
 
 ## Files
-1. `Near Future Climate Change Prediction.ipynb`  
+1. `ARIMA Holt-Winters Near Future Climate Change Prediction.ipynb`  
    - Jupyter Notebook containing the complete analysis, forecasting, and visualizations.
    
 2. `new_train.csv`  
@@ -37,7 +37,7 @@ install.packages(c("forecast", "tsutils", "ggplot2", "lmtest", "dplyr", "lubrida
 
 ## Usage
 1. Clone the repository:
-   git clone https://github.com/yourusername/Near-Future-Climate-Change-Prediction.git
+   git clone https://github.com/jovanthompsonmds/ARIMA-Holt-Winters-Near-Future-Climate-Change-Prediction.git
 2. Navigate to the project directory: 
    cd Near-Future-Climate-Change-Prediction
 3. Open the R Jupyter Notebook:
